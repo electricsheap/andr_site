@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.fb742047.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.fb742047.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.51e76b2e.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.51e76b2e.js.map",
-    "static/js/2.d4ad31fa.chunk.js": "/react-gh-pages/static/js/2.d4ad31fa.chunk.js",
-    "static/js/2.d4ad31fa.chunk.js.map": "/react-gh-pages/static/js/2.d4ad31fa.chunk.js.map",
-    "static/js/3.3d448c27.chunk.js": "/react-gh-pages/static/js/3.3d448c27.chunk.js",
-    "static/js/3.3d448c27.chunk.js.map": "/react-gh-pages/static/js/3.3d448c27.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react-gh-pages/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.d4ad31fa.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.d4ad31fa.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-gh-pages/static/media/logo.6ce24c58.svg"
+    "main.css": "/andr_site/static/css/main.a617e044.chunk.css",
+    "main.js": "/andr_site/static/js/main.fb742047.chunk.js",
+    "main.js.map": "/andr_site/static/js/main.fb742047.chunk.js.map",
+    "runtime-main.js": "/andr_site/static/js/runtime-main.0ff20f09.js",
+    "runtime-main.js.map": "/andr_site/static/js/runtime-main.0ff20f09.js.map",
+    "static/js/2.d4ad31fa.chunk.js": "/andr_site/static/js/2.d4ad31fa.chunk.js",
+    "static/js/2.d4ad31fa.chunk.js.map": "/andr_site/static/js/2.d4ad31fa.chunk.js.map",
+    "static/js/3.3d448c27.chunk.js": "/andr_site/static/js/3.3d448c27.chunk.js",
+    "static/js/3.3d448c27.chunk.js.map": "/andr_site/static/js/3.3d448c27.chunk.js.map",
+    "index.html": "/andr_site/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/andr_site/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d4ad31fa.chunk.js.LICENSE.txt": "/andr_site/static/js/2.d4ad31fa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/andr_site/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.51e76b2e.js",
+    "static/js/runtime-main.0ff20f09.js",
     "static/js/2.d4ad31fa.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.fb742047.chunk.js"
